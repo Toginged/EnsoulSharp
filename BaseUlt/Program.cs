@@ -36,7 +36,7 @@ namespace BaseUlt
         {
             Game.OnUpdate += GameOnOnUpdate;
             AIBaseClient.OnProcessSpellCast += Obj_AI_Hero_OnProcessSpellCast;
-            Chat.Print("<font color=\"#7e62cc\">Script: </font>Definitely Not BaseUlt<font color=\"#000000\"> by Sutyn</font> - <font color=\"#00BFFF\">Loaded</font>");
+            Chat.Print("<font color=\"#7e62cc\">Script: </font>BaseUlt<font color=\"#000000\"><font color=\"#00BFFF\">Loaded</font>");
 
         }
 
